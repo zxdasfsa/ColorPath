@@ -1,0 +1,1 @@
+Run test_shortestpath.py. This will generate a random heightmap where green is assigned to the highest points and red is assigned to the lowest points. It will then find the path through the image from starting and ending points (a, b) which will avoid reds and be attracted towards greens.
